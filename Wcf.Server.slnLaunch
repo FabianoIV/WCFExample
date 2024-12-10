@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Start Server And Client",
+    "Projects": [
+      {
+        "Path": "Wcf.Server\\Wcf.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Wcf.WindowsFormsClient\\Wcf.WindowsFormsClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
